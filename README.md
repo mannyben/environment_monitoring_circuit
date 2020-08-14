@@ -6,5 +6,6 @@ Measurements displayed alternate between temperature/pressure and gas/humidity. 
 Measurements are shown down to the hundreths of the corresponding unit. <br /> 
 The required circuit for this needs 1 Atmel SAML21 MCU, 1 BME680 Sensor, and ST7036 Dot Matrix LCD Controller/Driver. <br />
 Schematic can be found as a .pdf in the repo. <br />
+CLICK ON THE IMAGE Below to Watch the video
 
-[![Watch the video](https://cdn.discordapp.com/attachments/544935817983033345/703340391998685245/20200424_162301.jpg)](https://youtu.be/7mmq3IEyqiw)
+[![Watch the video](<img src="https://img.icons8.com/dusk/64/000000/video.png"/>)](https://youtu.be/7mmq3IEyqiw)
