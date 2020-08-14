@@ -1,5 +1,5 @@
 # environment_monitoring_circuit
-4 environment element measuring program for use with AtmelSAML21 and BME680 sensor
+4 environment element measuring program for use with AtmelSAML21 and BME680 sensor. <br />
 This program can detect the gas(ohms), pressure(hectopascals), temperature(degrees celcius) and humidity(relative humidity),
 of whatever environment the cirucit is in. 
 Measurements displayed alternate between temperature/pressure and gas/humidity. 
