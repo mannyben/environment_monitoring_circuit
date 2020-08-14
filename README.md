@@ -7,4 +7,4 @@ Measurements are shown down to the hundreths of the corresponding unit. <br />
 The required circuit for this needs 1 Atmel SAML21 MCU, 1 BME680 Sensor, and ST7036 Dot Matrix LCD Controller/Driver. <br />
 Schematic can be found as a .pdf in the repo. <br />
 
-[![Watch the video](https://youtu.be/7mmq3IEyqiw/hqdefault.jpg)](https://youtu.be/7mmq3IEyqiw)
+[![Watch the video](https://youtu.be/7mmq3IEyqiw/maxresdefault.jpg)](https://youtu.be/7mmq3IEyqiw)
